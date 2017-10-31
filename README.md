@@ -1,7 +1,8 @@
-# lottery
-why do not play lottery
+# lottery simulation in 90 lines
 
-Here is a simple simulation in 90 lines of lottery which play with 90 numbers.
+### why do not play lottery?
+
+In this simple simulation you can learn why do not play with 90/5 type lottery.
 
 Try it! 
 
@@ -9,9 +10,9 @@ options:
 
 ''extrachock'' - print more measseges to feel what is happening
 
-playgame(extrashock <- TRUE)
+> playgame(extrashock <- TRUE)
 
 
 ''fastplay'' - print messages only when you won some
 
-playgame(extrashock <- FALSE,fastplay <- FALSE)
+> playgame(extrashock <- FALSE,fastplay <- FALSE)
