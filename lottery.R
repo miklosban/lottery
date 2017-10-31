@@ -85,6 +85,5 @@ question <- function(your_budget) {
         x <- ''
     }
 }
-
-# supress the very shocking messages 
+# supress the very shocking messages
 tryCatch(stop(playgame(extrashock <- FALSE)),error=function(e) {print('Ok. Finished')}, finally = print("Can't you beleive it? Hah! Go and by lotteries :)"))
