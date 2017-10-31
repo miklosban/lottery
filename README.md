@@ -7,11 +7,11 @@ Try it!
 
 options:
 
-# extrachock - print more measseges to feel what is happening
+### extrachock - print more measseges to feel what is happening
 
 playgame(extrashock <- TRUE)
 
 
-# fastplay - print messages only when you won some
+### fastplay - print messages only when you won some
 
 playgame(extrashock <- FALSE,fastplay <- FALSE)
