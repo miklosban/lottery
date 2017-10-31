@@ -8,7 +8,7 @@ Try it!
 
 options:
 
-''extrachock'' - print more measseges to feel what is happening
+''extrachock'' - print more messeges to feel what is happening
 
 > playgame(extrashock <- TRUE)
 
