@@ -10,5 +10,3 @@ playgame(extrashock <- TRUE)
 
 fastplay - print messages only when you won some
 playgame(extrashock <- FALSE,fastplay <- FALSE)
-
-DO NOT PLAY REAL LOTTERY :)
